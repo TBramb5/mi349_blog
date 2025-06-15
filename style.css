@@ -8,12 +8,13 @@ body {
 
 
 h1 {
-
+    font-size: 4em;
+    margin: 0;
 }
 
 
 p {
-
+    line-height: 2em;
 }
 
 
