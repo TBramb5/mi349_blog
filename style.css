@@ -29,7 +29,8 @@ p {
 
 
 .table {
-    border: solid #585858;
+    border-top: solid #585858;
+    border-bottom: solid #585858;
     object-position: center;
 }
 
