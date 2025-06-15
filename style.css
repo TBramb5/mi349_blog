@@ -24,7 +24,8 @@ p {
 
 
 #blog {
-    
+    border-right: dotted #585858;
+    border-left: dotted #585858;
 }
 
 
@@ -36,10 +37,5 @@ p {
 .table {
     border-top: solid #585858;
     border-bottom: solid #585858;
-    object-position: center;
-}
-
-
-a[img] {
     object-position: center;
 }
