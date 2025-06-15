@@ -30,4 +30,10 @@ p {
 
 .table {
     border: solid #585858;
+    object-position: center;
+}
+
+
+a[img] {
+    object-position: center;
 }
