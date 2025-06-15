@@ -18,11 +18,16 @@ p {
 }
 
 
-#blog{
-
+#blog {
+    border-top: dotted #b1afaf;
 }
 
 
 .blog-post {
+    border-bottom: #b1afaf;
+}
 
+
+.table {
+    
 }
