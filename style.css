@@ -31,7 +31,7 @@ p {
 }
 
 
-.blog-title {
+.title {
     border-bottom: dotted #585858;
 }
 
@@ -52,3 +52,6 @@ p {
     padding: 15px;
 }
 
+a[section] {
+    background: #242424;
+}
