@@ -30,7 +30,6 @@ p {
     display: flex;
 }
 
-
 .title {
     border-bottom: dotted #585858;
 }
@@ -50,4 +49,8 @@ p {
     border-top: solid #585858;
     border-bottom: solid #585858;
     padding: 15px;
+}
+
+#about-page {
+    display: flex;
 }
