@@ -30,7 +30,15 @@ img[alt] {
   border: 3px solid #585858;
 }
 
+input[required], textarea[required], select[required] {
+  background-color: #585858;
+}
+
 #blog {
+    display: flex;
+}
+
+#about-page {
     display: flex;
 }
 
@@ -53,10 +61,6 @@ img[alt] {
     border-top: solid #585858;
     border-bottom: solid #585858;
     padding: 15px;
-}
-
-#about-page {
-    display: flex;
 }
 
 .about1 {
