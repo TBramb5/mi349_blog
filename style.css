@@ -54,3 +54,21 @@ p {
 #about-page {
     display: flex;
 }
+
+.about1 {
+    flex: 1;
+    padding: 20px;
+    margin: 20px;
+}
+
+.about2 {
+    flex: 3;
+    padding: 20px;
+    margin: 20px;
+}
+
+.about3 {
+    flex: 1;
+    padding: 20px;
+    margin: 20px;
+}
