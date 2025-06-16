@@ -28,7 +28,8 @@ p {
 }
 
 .image {
-    size: 50px;
+    height: 200px;
+    width: 200px;
 }
 
 .blog-post {
