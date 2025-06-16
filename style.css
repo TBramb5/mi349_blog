@@ -8,6 +8,8 @@ body {
 
 header {
     border-bottom: dotted #242424;
+    position: sticky;
+    top: 0;
 }
 
 h1 {
@@ -42,6 +44,3 @@ p {
     padding: 15px;
 }
 
-a[form]{
-    padding: 80px;
-}
