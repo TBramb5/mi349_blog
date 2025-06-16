@@ -27,6 +27,10 @@ p {
     
 }
 
+.image {
+    size: 50px;
+}
+
 .blog-post {
     border-bottom: dotted #b1afaf;
 }
@@ -35,8 +39,4 @@ p {
     border-top: solid #585858;
     border-bottom: solid #585858;
     
-}
-
-a[img] {
-    size-adjust: 10px;
 }
