@@ -30,6 +30,7 @@ p {
     display: flex;
 }
 
+
 .blog-title {
     border-bottom: dotted #585858;
 }
@@ -41,6 +42,8 @@ p {
 
 .blog-post {
     border-bottom: dotted #b1afaf;
+    padding: 20px;
+    margin: 20px;
 }
 
 .table {
