@@ -6,36 +6,33 @@ body {
     border-top: 10px solid #242424;
 }
 
-
 header {
     border-bottom: dotted #242424;
 }
-
 
 h1 {
     font-size: 4em;
     margin: 0;
 }
 
-
 p {
     line-height: 2em;
 }
 
-
 #blog {
-    border-right: dotted #585858;
-    border-left: dotted #585858;
+    
 }
-
 
 .blog-post {
     border-bottom: dotted #b1afaf;
 }
 
-
 .table {
     border-top: solid #585858;
     border-bottom: solid #585858;
-    object-position: center;
+    
+}
+
+a[img] {
+    size: 50px 50px 50px 50px;
 }
