@@ -26,6 +26,10 @@ p {
     line-height: 2em;
 }
 
+img[alt] {
+  border: 2px dashed #585858;
+}
+
 #blog {
     display: flex;
 }
