@@ -30,10 +30,10 @@ img[alt] {
   border: 3px solid #585858;
 }
 
-input[required], textarea[required], select[required] {
-  background-color: #585858;
+select[name="contact reason"] {
+  border: 2px dashed #585858;
+  background-color: #242424;
 }
-
 #blog {
     display: flex;
 }
